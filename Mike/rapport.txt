@@ -1,0 +1,16 @@
+1-Les technologies utilisees pour la realisation de ce projets sont : html , css , php , bootstrap. 
+
+2- a)Les fonctionnalites dispomible sur mon site sont :
+     -Inscription d'un internaute
+     -Connexion d'un utilisateur
+     -deconnexion d'un utilisateur
+     -Affichage de tout les annonces disponible dans la base
+     -Ajout d'une annonces par un utilisateur
+     -Suppression d'une annonce par un utilisateur
+     -Modification d'une annonce par un utilisateur
+    
+    b)Les fonctionnalites non disponible
+      -La disponiblite d'un administrateur
+      -Modification du profil d'un utilisateur
+      -Systeme permettant a deux utilisateur d'entrer en contact
+      -Gestion des demandes
